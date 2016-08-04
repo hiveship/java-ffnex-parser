@@ -13,4 +13,4 @@ Le parser proposé ici ne gère que le premier cas : l’ensemble des informatio
 
 Après avoir récupérer les sources du projet, il est nécéssaire de le builder via Maven : `mvn clean install`.
 
-### Document en cours de rédaction
+### Document en cours de rédaction...
