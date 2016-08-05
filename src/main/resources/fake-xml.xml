@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<note>
+    <to>Foo</to>
+    <from>Bar</from>
+    <heading>Notice</heading>
+    <body>This is a basic XML file. Not a FFNEX one.</body>
+</note>
