@@ -1,4 +1,4 @@
-# Java FFNEX Parser
+# Java FFNEX Parser ![Fédération Française de natation](./ffn-logo.png)
 Simple parser permettant de convertir un fichier XML de la norme FFNEX en objets manipulables en Java.
 
 ## Qu’est ce que la norme FFNex?
