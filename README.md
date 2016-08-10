@@ -18,7 +18,7 @@ Il permet également de restreindre le contenu d'un fichier à un club spécific
 
 ## Utilisation
 
-+ Cloner le projet et le builder à l'aide Maven : `mvn clean install̀
++ Cloner le projet et le builder à l'aide Maven : `mvn clean install` afin de résoudre les dépendances
 
 Exemple d'utilisation :
 
