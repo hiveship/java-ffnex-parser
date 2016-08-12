@@ -24,7 +24,7 @@ public class BasicExecutionTest {
             //TODO: Add more tests to check the content
         } catch (Exception e) {
             // Should not happen
-            Assert.assertFalse(true);
+            Assert.assertFalse(true); // TODO: Use the 'fail()' method from JUnit
         }
     }
 
